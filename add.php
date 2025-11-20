@@ -10,10 +10,10 @@ if (isset($_SESSION['username'])) {
 <html>
 <head>
   <meta charset="utf-8"/>
-  <title>Login — Simulasi SQLi</title>
+  <title>Signup — Simulasi XSS</title>
 </head>
 <body>
-  <h2>Login (Simulasi SQL Injection)</h2>
+  <h2>Signup — Simulasi XSS</h2>
   <form method="post" action="login.php">
     <label>Username: <input type="text" name="username"></label><br><br>
     <label>Password: <input type="password" name="password"></label><br><br>
