@@ -23,7 +23,7 @@ $result = $conn->query($sql);
 if ($result && $result->num_rows === 1) {
     $row = $result->fetch_assoc();
     $_SESSION['username'] = $row['username'];
-    header('Location: protected.php');
+    header('Location: home.php');
     exit;
 } else {
     echo "Login gagal. <a href='index.php'>Kembali</a>";
