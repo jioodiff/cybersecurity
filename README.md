@@ -246,11 +246,11 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 
 # 11) HASIL ASSESMENT
 
-[Cyberceurity1.pdf](https://github.com/user-attachments/files/24488125/Cyberceurity1.pdf)
+[Tugas Cybersecurity.pdf](https://github.com/user-attachments/files/24526755/Tugas.Cybersecurity.pdf)
 
 # 12) HASIL HOSTEDSCAN
 
-[691bcfb85e1554ee54f693f3.pdf](https://github.com/user-attachments/files/24488746/691bcfb85e1554ee54f693f3.pdf)
+[Uploading 691bcfb85e1554ee54f693f3.pdf…]()
 
 
 
