@@ -250,7 +250,8 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 
 # 12) HASIL HOSTEDSCAN
 
-[Uploading 691bcfb85e1554ee54f693f3.pdf…]()
+[691bcfb85e1554ee54f693f3.pdf](https://github.com/user-attachments/files/24529347/691bcfb85e1554ee54f693f3.pdf)
+
 
 
 
